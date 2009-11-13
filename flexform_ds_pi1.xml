@@ -1,0 +1,73 @@
+<T3DataStructure>
+  <meta>
+        <langDisable>1</langDisable>
+  </meta>
+  <sheets>
+   <sDEF>
+    <ROOT>
+     <TCEforms>
+      <sheetTitle>LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.sheet_mainHeader</sheetTitle>
+     </TCEforms>
+     <type>array</type>
+      <el>
+       <place>
+        <TCEforms>
+         <label>LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.place</label>
+          <config>
+        	<type>input</type>
+          	<size>30</size>
+          	<eval>1</eval>
+         </config>
+        </TCEforms>
+       </place>
+	   <key>
+        <TCEforms>
+         <label>LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.key</label>
+          <config>
+        	<type>input</type>
+          	<size>30</size>
+          	<eval>1</eval>
+         </config>
+        </TCEforms>
+       </key>
+	   <maxItem>
+        <TCEforms>
+         <label>LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.items</label>
+          <config>
+        	<type>input</type>
+          	<size>30</size>
+          	<eval>1</eval>
+         </config>
+        </TCEforms>
+       </maxItem>
+	   <SORT>
+        <TCEforms>
+         <label>LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.SORT</label>
+          <config>
+        	<type>select</type>
+         	<items type="array">
+			  <numIndex index="0" type="array">
+			  	<numIndex index="0">LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.DESC</numIndex>
+			  	<numIndex index="1">0</numIndex>
+			  </numIndex>
+			  <numIndex index="1" type="array">
+			  	<numIndex index="0">LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.ASC</numIndex>
+			   	<numIndex index="1">1</numIndex>
+			  </numIndex>
+			</items>
+         </config>
+        </TCEforms>
+       </SORT>
+	   <SHOW5STARS>
+        <TCEforms>
+         <label>LLL:EXT:tako_qype/locallang_db.xml:tako_qype.pi_flexform.SHOW5STARS</label>
+          <config>
+        	<type>check</type>
+          </config>
+        </TCEforms>
+       </SHOW5STARS>
+      </el>
+     </ROOT>
+    </sDEF>
+   </sheets>
+ </T3DataStructure>

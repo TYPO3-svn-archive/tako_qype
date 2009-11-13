@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'tako_qype'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">Qype List</label>
+			<label index="tako_qype.pi_flexform.sheet_mainHeader">Qype Configuration</label>
+			<label index="tako_qype.pi_flexform.place">Place ID:</label>
+			<label index="tako_qype.pi_flexform.key">Consumer Key:</label>
+			<label index="tako_qype.pi_flexform.items">max Items:</label>
+			<label index="tako_qype.pi_flexform.SORT">Sort</label>
+			<label index="tako_qype.pi_flexform.DESC">Desc</label>
+			<label index="tako_qype.pi_flexform.ASC">Asc</label>
+			<label index="tako_qype.pi_flexform.SHOW5STARS">Show all 5 Stars?</label>
+			
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.list_type_pi1">Qype Liste</label>
+			<label index="tako_qype.pi_flexform.sheet_mainHeader">Qype Konfiguration</label>
+			<label index="tako_qype.pi_flexform.place">Place ID:</label>
+			<label index="tako_qype.pi_flexform.key">Consumer Key:</label>
+			<label index="tako_qype.pi_flexform.items">Anzahl der Einträge:</label>
+			<label index="tako_qype.pi_flexform.SORT">Sortieren:</label>
+			<label index="tako_qype.pi_flexform.DESC">absteigend</label>
+			<label index="tako_qype.pi_flexform.ASC">aufsteigend</label>
+			<label index="tako_qype.pi_flexform.SHOW5STARS">Zeige alle 5 Sterne</label>
+		</languageKey>
+	</data>
+</T3locallang>
